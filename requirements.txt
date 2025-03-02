@@ -21,7 +21,7 @@ mongoengine==0.10.6
 git+https://github.com/MongoEngine/django-mongoengine.git
 pip>=8.1.2
 pydeep==0.2
-pymongo==3.2.2
+pymongo==4.6.3
 pyparsing
 python-dateutil
 python-ldap
